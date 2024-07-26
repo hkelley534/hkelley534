@@ -1,9 +1,9 @@
 <div align="center">
-  <h3>Hello, I'm Shawn</h3>
+  <h3>Hello, I'm Shawn Kelley</h3>
   <br>
   <p> <b> Software Developer </b> </p>
   <br>
-  ### Top Repositories
+  My Projects
   <div align="center">
     <table>
       <tr>
