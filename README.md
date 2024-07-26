@@ -92,10 +92,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>.NET
+        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="Django"/><br>.NET
       </td>
       <td align="center" style="border: none;">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstebet.net%2Fyou-dont-need-to-be-a-rocket-scientist-to-contribute-to-net-core%2F&psig=AOvVaw2SNK9rHmnQChTMwaWuBGCb&ust=1722096481297000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCY3rmLxYcDFQAAAAAdAAAAABAE" width="50" height="50" alt="Flask"/><br>Flask
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
