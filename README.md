@@ -3,7 +3,8 @@
   <br>
   <p> <b> Software Developer </b> </p>
   <br>
-  My Projects
+  <h4>My Projects</h4>
+  <br>
   <div align="center">
     <table>
       <tr>
