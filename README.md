@@ -3,6 +3,37 @@
   <br />
   <p> <b> Software Developer </b> </p>
 </div>
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/hkelley534/LinkLeap">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkelley534&repo=LinkLeap&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hkelley534/lets-read">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkelley534&repo=lets-read&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/hkelley534/job-stack">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkelley534&repo=job-stack&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hkelley534/OPENMP-ColorToGray">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkelley534&repo=OPENMP-ColorToGray&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
 <h3 align="center">Web Development</h3>
 
 <div align="center">
