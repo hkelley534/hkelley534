@@ -92,10 +92,10 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
       </td>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>.NET
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstebet.net%2Fyou-dont-need-to-be-a-rocket-scientist-to-contribute-to-net-core%2F&psig=AOvVaw2SNK9rHmnQChTMwaWuBGCb&ust=1722096481297000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCY3rmLxYcDFQAAAAAdAAAAABAE" width="50" height="50" alt="Flask"/><br>Flask
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
@@ -123,9 +123,6 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
     </tr>
   </tbody>
 </table>
@@ -147,12 +144,6 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
       </td>
     </tr>
   </tbody>
